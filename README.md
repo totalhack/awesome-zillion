@@ -1,4 +1,6 @@
 # awesome-zillion
+![Awesome Zillion](https://raw.githubusercontent.com/totalhack/awesome-zillion/main/public/awesome.svg)
+
 A collection of awesome [Zillion](https://github.com/totalhack/zillion/) projects and resources.
 
 Part of the goal of Zillion is to share common datasets for plug n' play use. If you have a dataset
